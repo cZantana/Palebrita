@@ -1,0 +1,47 @@
+#game-container {
+  margin: auto;
+  width: 725px;
+  height: 650px;
+  background-color: aqua;
+}
+
+#rellenar{
+  padding: 20px;
+  font-family: Arial;
+  text-align: center;
+  font-size: 30px;
+
+  background-color:deepskyblue;
+}
+
+#tiempito{
+  margin-left: auto;
+}
+
+#puntaje{
+  display: flex;
+  padding:10px;
+  font-family: Arial;
+  font-size: 30px;
+  background-color:dodgerblue;
+}
+
+#tablero {
+  border: 10px;
+  background-color: aqua;
+}
+
+#input-container{
+  margin-top: 60px;
+  text-align: center;
+  font-size: large;
+}
+#word-input{
+  text-align: center;
+  font-size: large;
+}
+
+#start-button{
+  text-align: center;
+  font-size: large;
+}
